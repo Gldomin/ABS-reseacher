@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BD_test.ChosenOneExamination" Collapsed="true">
+    <Position X="4.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>7wACEESEDCBACBAUCAGIEAACAIC4cEgAA3gICCRAUrA=</HashCode>
+      <FileName>ChosenOneExamination.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.ABSGraph" Collapsed="true">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAKAAABAAIAABAAAAwIAKAgECAAAEBAIAAECAAEAAgA=</HashCode>
+      <FileName>ChosenOneExamination.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.SilentMessageBox" Collapsed="true">
+    <Position X="8.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>customMessageBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.Volume" Collapsed="true">
+    <Position X="6.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAIAAAAAAAAAAAEgAAABAAAAAAAAAAIA=</HashCode>
+      <FileName>customMessageBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.CustomProgressBar" Collapsed="true">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAKQAAAAIAAABAAAAwIACAAAAAAAEAAAAAEAAAAQAAA=</HashCode>
+      <FileName>CustomProgressBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.Database1DataSet" Collapsed="true">
+    <Position X="12" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAwAAAAJABAAAQAACABgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.DataBaseServitor" Collapsed="true">
+    <Position X="14.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAABAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>DataBaseServitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.ExaminationOne" Collapsed="true">
+    <Position X="3" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAAAAAAAAAAAAAAAEBIAAAgKAAAUDABAA=</HashCode>
+      <FileName>ExaminationOne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.Examinations" Collapsed="true">
+    <Position X="9.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/6yF0peTKCCc4FmeyVuDJChyHUk78mib8PpMEaNNpjI=</HashCode>
+      <FileName>Examinations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.Export" Collapsed="true">
+    <Position X="4.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQABAAAAAAAAACAAAAAAQAAAAAQ=</HashCode>
+      <FileName>Export.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.Login" Collapsed="true">
+    <Position X="6" Y="5.5" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Forms.Form" ManuallyRouted="true">
+      <Path>
+        <Point X="11" Y="1.941" />
+        <Point X="11" Y="4.837" />
+        <Point X="6.75" Y="4.837" />
+        <Point X="6.75" Y="5.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAIAIlAACCQAAAAIACCAgAQCAAEIkAACEmAAAYBAAIA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.Menu" Collapsed="true">
+    <Position X="7.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAFAiAAABAACASAAAACAAIJAAAAAIgAAAAAAAg=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.Patients" Collapsed="true">
+    <Position X="11.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MYiMAJWCqKaCQDWAiVGIAAgCAIA+EABCWPwAIAABpgA=</HashCode>
+      <FileName>Patients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.Program" Collapsed="true">
+    <Position X="16" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.report" Collapsed="true">
+    <Position X="13" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAAAAACkEABAAAACAAAAiAAAIABABAEAQACAAgAA=</HashCode>
+      <FileName>report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.Users" Collapsed="true">
+    <Position X="14.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cYiEIBEKKCYAQDEICBGAEAgCAAA4EBgCUFgEIAABpAA=</HashCode>
+      <FileName>Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.Database1DataSetTableAdapters.ExaminationsDataTableAdapter" Collapsed="true">
+    <Position X="3.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.Database1DataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="1.25" Y="7.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABEEBAAAAMAAgAAACgAAAAAQAAAAABEQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.Properties.Resources" Collapsed="true">
+    <Position X="10" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAgAAAAAAAAGEABEAQAAQAAAgQAAAAAAAAAEIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BD_test.Properties.Settings" Collapsed="true">
+    <Position X="4.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.PictureBox" Collapsed="true">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="10.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.ProgressBar" Collapsed="true">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Configuration.ApplicationSettingsBase" Collapsed="true">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.ComponentModel.Component" Collapsed="true">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Data.DataSet" Collapsed="true">
+    <Position X="12" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.21" />
+  </Class>
+  <Enum Name="BD_test.ProgressBarDisplayText">
+    <Position X="14.75" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomProgressBar.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
