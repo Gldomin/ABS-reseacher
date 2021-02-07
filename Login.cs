@@ -10,6 +10,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
+
+
 namespace BD_test
 {
     public partial class Login : Form
@@ -295,7 +297,7 @@ namespace BD_test
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-
+           fireBirdExecuter.testFDB();
         }
 
         private void pictureBox4_Click(object sender, EventArgs e)
